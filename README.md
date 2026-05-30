@@ -10,9 +10,9 @@
 
 * 📚 Cursando Análise e Desenvolvimento de Sistemas
 * 🐍 Estudando Python do básico ao avançado
-* 💻 Desenvolvendo projetos para compor meu portfólio
+* 💻 Construindo projetos práticos para meu portfólio no GitHub
 * 🌱 Aprendendo diariamente novas tecnologias e boas práticas de programação
-* 🎯 Objetivo: ingressar na área de desenvolvimento de software e evoluir como desenvolvedor
+* 🎯 Objetivo: ingressar na área de desenvolvimento de software e evoluir como desenvolvedor Backend
 
 ---
 
@@ -24,10 +24,16 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Tkinter](https://img.shields.io/badge/Tkinter-Python-blue?style=for-the-badge)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge\&logo=ffmpeg\&logoColor=white)
+![yt--dlp](https://img.shields.io/badge/yt--dlp-FF0000?style=for-the-badge)
 
 ---
 
 ## 📂 Projetos em Destaque
+
+### 🎬 Media Downloader
+
+Aplicação desenvolvida em Python para download de vídeos e áudios utilizando yt-dlp e FFmpeg. O sistema permite baixar conteúdos em diferentes formatos e unificar áudio e vídeo automaticamente.
 
 ### 🏦 Sistema Bancário
 
@@ -72,6 +78,9 @@ Sistema para seleção e leitura de arquivos de texto utilizando Tkinter.
 * Tkinter
 * Matplotlib
 * Git e GitHub
+* Web Scraping
+* FFmpeg
+* yt-dlp
 
 ---
 
@@ -86,6 +95,7 @@ Sistema para seleção e leitura de arquivos de texto utilizando Tkinter.
 
 ---
 
+
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Santos-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/lucas-j-santos-dev/)
@@ -94,3 +104,5 @@ Sistema para seleção e leitura de arquivos de texto utilizando Tkinter.
 ---
 
 > 💡 *"A prática constante transforma conhecimento em habilidade."*
+
+🚀 Sempre aprendendo, sempre construindo.
