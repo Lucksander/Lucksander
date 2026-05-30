@@ -19,16 +19,11 @@
 ## 🛠️ Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-
-![Tkinter](https://img.shields.io/badge/Tkinter-Python-blue?style=for-the-badge)
-
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Tkinter](https://img.shields.io/badge/Tkinter-Python-blue?style=for-the-badge)
 
 ---
 
@@ -36,7 +31,7 @@
 
 ### 🏦 Sistema Bancário
 
-Sistema bancário desenvolvido com Programação Orientada a Objetos, permitindo cadastro de clientes, criação de contas, depósitos, saques e consulta de saldo.
+Sistema bancário desenvolvido com Programação Orientada a Objetos (POO), permitindo cadastro de clientes, criação de contas, depósitos, saques e consulta de saldo.
 
 ### 🎮 Jogo da Forca
 
@@ -44,11 +39,11 @@ Jogo completo com categorias de palavras, arte ASCII, sistema de pontuação, b�
 
 ### 🇧🇷 Validador de CPF
 
-Implementação do algoritmo oficial de validação de CPF com aplicação prática em sistemas de cadastro.
+Implementação do algoritmo oficial de validação de CPF com aplicação prática em sistemas de cadastro e validação de dados.
 
 ### 🔐 Gerador de Senhas
 
-Gerador de senhas aleatórias utilizando letras, números e caracteres especiais.
+Aplicação para geração de senhas aleatórias utilizando letras, números e caracteres especiais.
 
 ### 📊 Análise de Dados
 
@@ -66,47 +61,44 @@ Sistema para seleção e leitura de arquivos de texto utilizando Tkinter.
 
 ## 📈 Jornada de Aprendizado
 
-### Concluído
+### ✅ Concluído
 
-✅ Lógica de Programação
-
-✅ Python Básico
-
-✅ Python Intermediário
-
-✅ Manipulação de Arquivos
-
-✅ Programação Orientada a Objetos
-
-✅ Pandas
-
-✅ Tkinter
-
-✅ Matplotlib
+* Lógica de Programação
+* Python Básico
+* Python Intermediário
+* Manipulação de Arquivos
+* Programação Orientada a Objetos (POO)
+* Pandas
+* Tkinter
+* Matplotlib
+* Git e GitHub
 
 ---
 
-### Próximos Passos
+### 🎯 Próximos Passos
 
-🔲 APIs REST
+* APIs REST
+* Banco de Dados SQL
+* FastAPI
+* Desenvolvimento Web
+* Automações Avançadas
+* Docker
 
-🔲 Banco de Dados SQL
+---
 
-🔲 FastAPI
+## 📊 Estatísticas do GitHub
 
-🔲 Desenvolvimento Web
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO\&show_icons=true\&theme=github_dark)
 
-🔲 Automações Avançadas
-
-🔲 Docker
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO\&layout=compact\&theme=github_dark)
 
 ---
 
 ## 📫 Contato
 
-LinkedIn: (https://www.linkedin.com/in/lucas-j-santos-dev/)
+💼 LinkedIn: linkedin.com/in/lucas-j-santos-dev/
 
-GitHub: (https://github.com/Lucksander)
+🐙 GitHub: https://github.com/Lucksander
 
 ---
 
