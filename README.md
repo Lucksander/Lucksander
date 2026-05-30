@@ -86,19 +86,11 @@ Sistema para seleção e leitura de arquivos de texto utilizando Tkinter.
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO\&show_icons=true\&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO\&layout=compact\&theme=github_dark)
-
----
-
 ## 📫 Contato
 
-💼 LinkedIn: linkedin.com/in/lucas-j-santos-dev/
+💼 LinkedIn: [www.linkedin.com/in/lucas-j-santos-dev/]
 
-🐙 GitHub: https://github.com/Lucksander
+🐙 GitHub: [https://github.com/Lucksander]
 
 ---
 
