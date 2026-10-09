@@ -4,6 +4,7 @@
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-j-santos-dev/)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lucksander)
+  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lucksander)
   
 </div>
 
@@ -17,6 +18,7 @@
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
 - 📱 Desenvolvimento **Android Nativo** utilizando **Kotlin**, **Jetpack Compose** e integração com **Firebase** e APIs REST
 - 🐍 Desenvolvimento Backend e automações em **Python** (POO, Manipulação de Arquivos, Scraping e Análise de Dados)
+- ✍️ Escrevo artigos sobre tecnologia e carreira no **Medium**
 - 🐧 Usuário de **Linux (Ubuntu)**, versionamento com **Git/GitHub** e boas práticas de código
 - 🗄️ Modelagem de dados, regras de segurança no Firestore e consultas **SQL**
 - 🎯 **Objetivo:** Ingressar no mercado como **Desenvolvedor Backend / Android / Python**
@@ -30,8 +32,9 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Mobile & Cloud
+### Mobile, IDEs & Cloud
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
@@ -47,15 +50,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 ![yt-dlp](https://img.shields.io/badge/yt--dlp-FF0000?style=for-the-badge)
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucksander&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucksander&layout=compact&theme=dark" alt="Linguagens mais usadas" height="170" />
-</div>
 
 ---
 
@@ -93,7 +87,7 @@
 | :--- | :--- |
 | • Lógica de Programação & Algoritmos | • APIs RESTful & FastAPI |
 | • Python Intermediário / Avançado & POO | • Bancos de Dados Relacionais (PostgreSQL/MySQL) |
-| • Manipulação de Arquivos e Processamento de Documentos | • Aprovundamento em Android (Room DB, Arquitetura Clean/MVVM) |
+| • Manipulação de Arquivos e Processamento de Documentos | • Aprofundamento em Android (Room DB, Arquitetura Clean/MVVM) |
 | • Automações (Web Scraping, FFmpeg, PyMuPDF) | • Docker & Conteinerização |
 | • Versionamento com Git/GitHub & Ambiente Linux | • Cobertura de Testes Unitários |
 
@@ -105,6 +99,7 @@
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-j-santos-dev/)
   [![GitHub](https://img.shields.io/badge/GitHub-Lucksander-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lucksander)
+  [![Medium](https://img.shields.io/badge/Medium-lucksander-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lucksander)
 
 </div>
 
