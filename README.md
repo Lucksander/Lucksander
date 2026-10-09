@@ -53,8 +53,8 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucksander&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucksander&layout=compact&theme=dark" alt="Linguagens mais usadas" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucksander&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucksander&layout=compact&theme=dark" alt="Linguagens mais usadas" height="170" />
 </div>
 
 ---
@@ -62,11 +62,11 @@
 ## 📂 Projetos em Destaque
 
 ### 📱 Seriando (Em Desenvolvimento)
-> Aplicativo Android nativo para acompanhamento de séries e filmes. Conta com autenticação Google via Firebase, consulta de dados via TMDB API, controle de progresso de episódios, listas personalizadas e módulo comunitário para avaliações, opiniões com marcadores de spoiler e seleção de emoções[cite: 1].  
+> Aplicativo Android nativo para acompanhamento de séries e filmes. Conta com autenticação Google via Firebase, consulta de dados via TMDB API, controle de progresso de episódios, listas personalizadas e módulo comunitário para avaliações, opiniões com marcadores de spoiler e seleção de emoções.  
 `Kotlin` • `Jetpack Compose` • `Firebase Auth & Firestore` • `TMDB API` • `Android Studio`
 
 ### 📄 PDF to Markdown (V1)
-> Aplicação desktop para seleção de arquivos PDF via interface gráfica e conversão automatizada do conteúdo textual para formato Markdown (`.md`), organizando as saídas em diretório dedicado[cite: 1].  
+> Aplicação desktop para seleção de arquivos PDF via interface gráfica e conversão automatizada do conteúdo textual para formato Markdown (`.md`), organizando as saídas em diretório dedicado.  
 `Python` • `PyMuPDF` • `Tkinter` • `Pathlib`
 
 ### 🎬 Media Downloader
@@ -93,7 +93,7 @@
 | :--- | :--- |
 | • Lógica de Programação & Algoritmos | • APIs RESTful & FastAPI |
 | • Python Intermediário / Avançado & POO | • Bancos de Dados Relacionais (PostgreSQL/MySQL) |
-| • Manipulação de Arquivos e Processamento de Documentos | • Aprofundamento em Android (Room DB, Arquitetura Clean/MVVM) |
+| • Manipulação de Arquivos e Processamento de Documentos | • Aprovundamento em Android (Room DB, Arquitetura Clean/MVVM) |
 | • Automações (Web Scraping, FFmpeg, PyMuPDF) | • Docker & Conteinerização |
 | • Versionamento com Git/GitHub & Ambiente Linux | • Cobertura de Testes Unitários |
 
